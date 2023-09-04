@@ -38,9 +38,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aprendendo a desenvolver site do Google Glass com Gustavo Guanabara.
+Aprendendo a desenvolver site do Google Glass, mostrando as diferentes fases de se programar em HTML, com Gustavo Guanabara.
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+
 
 
 
